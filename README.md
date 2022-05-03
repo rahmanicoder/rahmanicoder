@@ -7,10 +7,7 @@
 
 Connect with me:
 
-rahuldahal raahuldaahal rahuldahal 11416157/rahul-dahal raahuldaahaal @rahuldahal
-Languages and Tools:
-
-css3 cypress docker express figma firebase git heroku html5 javascript jest linux mongodb nestjs nextjs nginx nodejs postgresql postman puppeteer react reactnative redis redux sass tailwind travisci typescript vuejs webpack 
+Languages and Tools: 
 
 
 <!---
